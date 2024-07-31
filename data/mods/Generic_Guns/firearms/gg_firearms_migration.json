@@ -41,7 +41,6 @@
   },
   {
     "id": [
-      "skorpion_61",
       "mac_11",
       "mac_10",
       "hk_mp7",
@@ -162,7 +161,7 @@
     "replace": "pistol_tiny_rifle"
   },
   {
-    "id": [ "kp32", "sig_mosquito", "sw_22", "walther_p22", "sig_p230", "walther_ppk", "j22" ],
+    "id": [ "kp32", "sig_mosquito", "sw_22", "walther_p22", "sig_p230", "walther_ppk", "j22", "skorpion_61" ],
     "type": "MIGRATION",
     "replace": "pistol_tiny_target"
   },

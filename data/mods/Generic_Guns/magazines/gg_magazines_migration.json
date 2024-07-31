@@ -91,7 +91,6 @@
   },
   {
     "id": [
-      "skorpion61mag",
       "mac11mag",
       "smg_40_mag",
       "mac10mag",
@@ -142,7 +141,7 @@
     "replace": "pistol_tiny_mag"
   },
   {
-    "id": [ "a180mag", "ruger1022bigmag" ],
+    "id": [ "a180mag", "ruger1022bigmag", "skorpion61mag" ],
     "type": "MIGRATION",
     "replace": "pistol_tiny_mag_hc"
   },
@@ -167,6 +166,8 @@
       "augmag_30rd",
       "augmag_42rd",
       "ruger_makeshiftmag",
+      "stanag5",
+      "stanag10",
       "stanag20",
       "stanag30",
       "stanag40",
@@ -224,7 +225,6 @@
     "id": [
       "m2010mag",
       "ruger5",
-      "stanag5",
       "survivor223mag",
       "3006_clip",
       "garandclip",
@@ -242,7 +242,7 @@
     "replace": "rifle_sniper_mag"
   },
   {
-    "id": [ "ruger10", "stanag10", "hk417mag_10rd" ],
+    "id": [ "ruger10", "hk417mag_10rd" ],
     "type": "MIGRATION",
     "replace": "rifle_sniper_mag_hc"
   },
